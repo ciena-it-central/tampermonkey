@@ -1,0 +1,5 @@
+# This a GITHUB file that represents who is a default reviewer for this repo
+# https://docs.github.com/en/enterprise/2.15/user/articles/about-code-owners
+
+# Each below is a default reviewer for everything in this repo
+*       frosetti@ciena.com mcole@ciena.com pplummer@ciena.com strauch@ciena.com
